@@ -129,6 +129,8 @@ MIT의 SixthSense 프로젝트(2009)는 목걸이형 장치에 카메라 + 프�
 현재는 이 아이디어가 Apple Vision Pro, Meta Quest 3, Microsoft HoloLens 같은 혼합현실(MR) 헤드셋으로 발전했습니다. 이 장비들은 여러 대의 카메라, LiDAR, 손·눈 추적 기술을 활용해 현실 공간을 3D로 인식하고, 화면을 직접 눈앞에 겹쳐 보여주기 때문에 훨씬 몰입감 있고 정밀한 조작이 가능합니다.
 또한 스마트폰 AR 기술(예: iPhone의 ARKit, Android의 ARCore)은 휴대폰 카메라와 센서를 이용해 테이블이나 벽 같은 평면을 인식하고 가상 물체를 배치할 수 있게 해줍니다. 이는 과거 SixthSense가 원하던 “현실 위에 디지털 정보 결합”을 대중이 손쉽게 경험할 수 있도록 만든 진화형 버전이라고 볼 수 있습니다.
 결론적으로, SixthSense가 보여준 비전은 지금 프로젝터 기반 실험 → 헤드셋 기반 공간 컴퓨팅 + 스마트폰 AR이라는 형태로 이어지고 있습니다. 즉, 아이디어는 같지만 기술적 제약을 극복한 덕분에 산업 교육, 디자인, 원격 협업, 심지어 일반 소비자 경험까지 폭넓게 활용되는 수준으로 성숙했습니다.
+<img width="1536" height="1024" alt="ChatGPT Image 2025년 10월 10일 오후 04_01_23" src="https://github.com/user-attachments/assets/23905b38-a288-469d-903a-27e53688cc23" />
+
 ```
 
 자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -136,4 +138,5 @@ MIT의 SixthSense 프로젝트(2009)는 목걸이형 장치에 카메라 + 프�
 ### Support or Contact
 
 readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+
 
