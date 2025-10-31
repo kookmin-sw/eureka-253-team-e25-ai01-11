@@ -52,6 +52,7 @@
 <img src="https://pixnio.com/free-images/2017/08/15/2017-08-15-10-05-39-960x640.jpg?text=활동사진3" width="330" height="190"/>
 
 ***
+![11조 유레카 ](https://github.com/user-attachments/assets/370e1bd5-7a0a-412a-ab29-59100c1b519a)
 
 ## 4️⃣ 인상 깊은 활동
 
