@@ -1,4 +1,7 @@
 ![KakaoTalk_20251126_031352051](https://github.com/user-attachments/assets/3513965d-343f-47ee-a639-efdc5ea321e1)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gSldEXG6)
+<img width="418" height="400" alt="화면 캡처 2025-11-26 031901" src="https://github.com/user-attachments/assets/62fb7ac4-3584-47ff-8a80-a6b56bb0b764" />
+
+
 # Welcome to 11팀
 
 ## 1️⃣ 팀원 소개
